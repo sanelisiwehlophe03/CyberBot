@@ -18,6 +18,8 @@ A simple, friendly console chatbot that teaches the basics of cybersecurity awar
 - **Simple commands**: `help`, `exit`, `quit`, `bye`
 
 ##Actions 
+
+
 <img width="637" height="109" alt="image" src="https://github.com/user-attachments/assets/4b1e32a5-c2fa-473b-a546-1aab8043152e" />
 
 ## Requirements
