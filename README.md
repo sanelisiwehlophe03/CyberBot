@@ -22,6 +22,10 @@ A simple, friendly console chatbot that teaches the basics of cybersecurity awar
 
 <img width="637" height="109" alt="image" src="https://github.com/user-attachments/assets/4b1e32a5-c2fa-473b-a546-1aab8043152e" />
 
+## Video Walkthrough
+
+https://advtechonline-my.sharepoint.com/:v:/g/personal/st10500376_rcconnect_edu_za/IQDr0W9i4NKaRK7OqlnteZOVAeVcmKfHycXcE7YpBaUJVQc?e=S1l7IG
+
 ## Requirements
 
 - [.NET SDK](https://dotnet.microsoft.com/download) (6.0 or later recommended)
